@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\QuestionsTryConsole\QuestionsTryConsole\bin\Debug\QuestionsTryConsole.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\QuestionsTryConsole\QuestionsTryConsole\bin\Debug\QuestionsTryConsole.exe
+c:\users\pc\documents\visual studio 2015\Projects\QuestionsTryConsole\QuestionsTryConsole\bin\Debug\QuestionsTryConsole.pdb
+c:\users\pc\documents\visual studio 2015\Projects\QuestionsTryConsole\QuestionsTryConsole\obj\Debug\QuestionOne.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\QuestionsTryConsole\QuestionsTryConsole\obj\Debug\QuestionsTryConsole.exe
+c:\users\pc\documents\visual studio 2015\Projects\QuestionsTryConsole\QuestionsTryConsole\obj\Debug\QuestionsTryConsole.pdb

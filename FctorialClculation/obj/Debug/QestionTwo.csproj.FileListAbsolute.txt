@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2015\Projects\QuestionsTryConsole\QestionTwo\bin\Debug\QestionTwo.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\QuestionsTryConsole\QestionTwo\bin\Debug\QestionTwo.exe
+c:\users\pc\documents\visual studio 2015\Projects\QuestionsTryConsole\QestionTwo\bin\Debug\QestionTwo.pdb
+c:\users\pc\documents\visual studio 2015\Projects\QuestionsTryConsole\QestionTwo\obj\Debug\QestionTwo.exe
+c:\users\pc\documents\visual studio 2015\Projects\QuestionsTryConsole\QestionTwo\obj\Debug\QestionTwo.pdb
